@@ -22,6 +22,7 @@ Estos package se instalan ingresando a la pestaña archivo->instalar package
 una ves ingresado se desplegara una ventana en la cual debe ingresar el package que desea instalar
 
 Abrir el entorno de ejecución nombrado como Atsign.rkt
+
 Escribir la sentencia desea partiendo por la creación o edición
 
 Ejemplo: mguABCo
