@@ -9,7 +9,7 @@ Jorge Ortiz Dias -  Jorge.ortiz@alumnos.uv.cl
 
 Aaron Ponce Sandoval - aaron.ponce@alumnos.uv.cl
 
-*Manual de Uso*
+_Manual de Uso_
 
 - Para poder utilizar el lenguaje de programación se deben seguir los siguientes pasos:
 Antes de proceder con la instruaccin debe tener instalado los siguintes package
