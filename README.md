@@ -1,7 +1,7 @@
 # LenGraph
 Lenguaje de programación creador de grafos
 
-Integrantes: 
+Integrantes:
 
 Luis Fuentes Olivares - luis.fuentes@alumnos.uv.cl
 Jorge Ortiz Dias -  Jorge.ortiz@alumnos.uv.cl
@@ -23,6 +23,7 @@ Abrir el entorno de ejecución nombrado como Atsign.rkt
 Escribir la sentencia desea partiendo por la creación o edición
 
 Ejemplo: mguABCo
+
     m: crear
     g: Grafo
     u: no ponderado
